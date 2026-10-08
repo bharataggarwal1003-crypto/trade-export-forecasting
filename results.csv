@@ -1,0 +1,5 @@
+,MAPE,RMSE
+Ridge,3.88,136.2
+GradientBoosting,4.61,166.2
+RandomForest,4.83,181.2
+Seasonal naive (baseline),4.9,188.8
